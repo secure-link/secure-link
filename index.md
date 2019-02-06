@@ -1,9 +1,9 @@
 ---
-title: secure link 
+title: very secure link 
 ---
 
-# Welcome
+# you're on your own 
 
-this is _secure-l.ink_.
+are you sure this is a *very* _secure-l.ink_?
 
 
